@@ -17,10 +17,10 @@ jobs:
       - name: 🔐 Setup SSH
         run: |
           mkdir -p ~/.ssh
-          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan -p 22 -H 81.88.26.204 >> ~/.ssh/known_hosts 2>/dev/null
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -H 81.88.26.204 >> ~/.ssh/known_hosts 2>/dev/null
 
       - name: 🚀 Deploy
         run: |
-          ssh -v -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null administrator@81.88.26.204 'cd /var/www/westmoney && git pull origin main && sudo systemctl restart westmoney'
+          ssh -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=no administrator@81.88.26.204 'cd /var/www/westmoney && git pull origin main && sudo systemctl restart westmoney && echo Deployed!'
