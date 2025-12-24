@@ -14,13 +14,14 @@ jobs:
       - name: 📥 Checkout
         uses: actions/checkout@v4
 
-      - name: 🔐 Setup SSH
-        run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
-          chmod 600 ~/.ssh/id_ed25519
-          ssh-keyscan -H 81.88.26.204 >> ~/.ssh/known_hosts 2>/dev/null
-
-      - name: 🚀 Deploy
-        run: |
-          ssh -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=no administrator@81.88.26.204 'cd /var/www/westmoney && git pull origin main && sudo systemctl restart westmoney && echo Deployed!'
+      - name: 🚀 Deploy via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: 81.88.26.204
+          username: administrator
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
+            cd /var/www/westmoney
+            git pull origin main
+            sudo systemctl restart westmoney
+            echo "✅ Deployed!"
