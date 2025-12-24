@@ -1,0 +1,31 @@
+name: 🚀 Deploy West Money OS
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: 🚀 Deploy to Production
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🔐 Setup SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H 81.88.26.204 >> ~/.ssh/known_hosts
+
+      - name: 🚀 Deploy
+        run: |
+          ssh administrator@81.88.26.204 << 'DEPLOY'
+            cd /var/www/westmoney
+            git pull origin main
+            sudo systemctl restart westmoney
+            echo "✅ Deployed!"
+          DEPLOY
