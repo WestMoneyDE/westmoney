@@ -1,0 +1,157 @@
+2025-12-24 00:27:03,655 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 00:27:03,659 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 00:27:03,720 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 00:27:03,770 - WestMoneyOS - INFO - Default admin user created
+2025-12-24 00:27:03,771 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 00:27:03,771 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 00:27:03,773 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 00:34:54,457 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 00:34:54,466 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 00:34:54,475 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 00:34:54,491 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 00:34:54,498 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 00:34:54,509 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 00:46:55,905 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 00:46:55,930 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 00:46:55,938 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 00:46:55,963 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 00:46:56,004 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 00:46:56,038 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 00:56:18,379 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 00:56:18,413 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 00:56:18,486 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 00:56:18,513 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 00:56:18,520 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 00:56:18,547 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 01:40:35,669 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 01:40:35,702 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 01:40:35,725 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 01:40:35,758 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 01:40:35,809 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 01:40:35,841 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 01:40:51,304 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 01:40:51,336 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 01:40:51,373 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 01:40:51,401 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 01:40:51,408 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 01:40:51,435 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 02:15:06,821 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 02:15:06,856 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 02:15:06,873 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 02:15:06,906 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 02:15:06,930 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 02:15:06,964 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 02:59:27,927 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 02:59:27,959 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 02:59:27,967 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://81.88.26.204:5000
+2025-12-24 02:59:27,968 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-24 02:59:35,883 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 02:59:35,916 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 02:59:35,923 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://81.88.26.204:5000
+2025-12-24 02:59:35,923 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-24 03:00:15,191 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:00:15] "GET / HTTP/1.1" 200 -
+2025-12-24 03:00:16,598 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:00:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-24 03:00:47,299 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:00:47] "GET /login HTTP/1.1" 200 -
+2025-12-24 03:00:56,886 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:00:56] "POST /login HTTP/1.1" 200 -
+2025-12-24 03:01:03,764 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:01:03] "POST /login HTTP/1.1" 200 -
+2025-12-24 03:01:05,020 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:01:05] "POST /login HTTP/1.1" 200 -
+2025-12-24 03:02:32,109 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 03:02:32,144 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 03:02:37,610 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:02:37] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-24 03:02:37,857 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:02:37] "GET /dashboard HTTP/1.1" 200 -
+2025-12-24 03:02:58,509 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:02:58] "[33mGET /api/whatsapp/status HTTP/1.1[0m" 404 -
+2025-12-24 03:03:34,841 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:03:34] "GET /dashboard HTTP/1.1" 200 -
+2025-12-24 03:03:39,375 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:03:39] "[33mGET /api/dashboard/stats HTTP/1.1[0m" 404 -
+2025-12-24 03:04:46,088 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:04:46] "GET /api/health HTTP/1.1" 200 -
+2025-12-24 03:06:21,956 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:06:21] "HEAD /api/health HTTP/1.1" 200 -
+2025-12-24 03:07:17,956 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:07:17] "[33mGET /api/contacts HTTP/1.1[0m" 404 -
+2025-12-24 03:07:22,592 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:07:22] "[33mGET /api/contacts HTTP/1.1[0m" 404 -
+2025-12-24 03:07:44,736 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:07:44] "GET / HTTP/1.1" 200 -
+2025-12-24 03:10:20,216 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:10:20] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-12-24 03:17:23,380 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:17:23] "GET / HTTP/1.1" 200 -
+2025-12-24 03:17:24,071 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:17:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-24 03:17:40,443 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:17:40] "GET / HTTP/1.1" 200 -
+2025-12-24 03:17:50,933 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:17:50] "[33mGET /.well-known/security.txt HTTP/1.1[0m" 404 -
+2025-12-24 03:18:59,933 - WestMoneyOS - WARNING - Flask-SocketIO not installed. Real-time features disabled.
+2025-12-24 03:18:59,977 - WestMoneyOS - INFO - Database initialized successfully
+2025-12-24 03:18:59,985 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://81.88.26.204:5000
+2025-12-24 03:18:59,985 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-24 03:20:17,547 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:20:17] "GET / HTTP/1.1" 200 -
+2025-12-24 03:20:19,626 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:20:19] "[33mGET /.well-known/acme-challenge/Ficjnj8xyRw9d1Jz43kf8mNjRdyo9-S8IGBVMh6pLEDcZ4lFHrAwV-1J1yQnIohv HTTP/1.1[0m" 404 -
+2025-12-24 03:20:20,546 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:20:20] "[33mGET /.well-known/acme-challenge/Ficjnj8xyRw9d1Jz43kf8mNjRdyo9-S8IGBVMh6pLEDcZ4lFHrAwV-1J1yQnIohv HTTP/1.1[0m" 404 -
+2025-12-24 03:20:30,237 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:20:30] "[33mGET /.well-known/acme-challenge/iyErcX2nKe2fVXixv3YYJgU3kC8kuHghyEzWJKneq64ZJbD465Zcp9gslRCxd4V4 HTTP/1.1[0m" 404 -
+2025-12-24 03:20:30,289 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:20:30] "[33mGET /.well-known/acme-challenge/iyErcX2nKe2fVXixv3YYJgU3kC8kuHghyEzWJKneq64ZJbD465Zcp9gslRCxd4V4 HTTP/1.1[0m" 404 -
+2025-12-24 03:22:29,174 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:22:29] "GET / HTTP/1.1" 200 -
+2025-12-24 03:23:38,559 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:23:38] "GET / HTTP/1.1" 200 -
+2025-12-24 03:23:46,129 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:23:46] "[33mGET /.well-known/cf-custom-hostname-challenge/ac63e1ac-d5e2-4fd5-8c63-145ddb9fc4c1 HTTP/1.1[0m" 404 -
+2025-12-24 03:23:46,190 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:23:46] "[33mGET /.well-known/cf-custom-hostname-challenge/ac63e1ac-d5e2-4fd5-8c63-145ddb9fc4c1 HTTP/1.1[0m" 404 -
+2025-12-24 03:23:48,604 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:23:48] "GET /pricing HTTP/1.1" 200 -
+2025-12-24 03:23:53,422 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:23:53] "GET /login HTTP/1.1" 200 -
+2025-12-24 03:23:54,150 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:23:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-24 03:23:54,779 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:23:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-24 03:24:08,113 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:24:08] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-24 03:24:08,165 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:24:08] "GET /dashboard HTTP/1.1" 200 -
+2025-12-24 03:24:14,459 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:24:14] "[33mGET /.well-known/cf-custom-hostname-challenge/059eba08-fbf4-4d7f-bd25-27bd507d86ab HTTP/1.1[0m" 404 -
+2025-12-24 03:24:14,528 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:24:14] "[33mGET /.well-known/cf-custom-hostname-challenge/059eba08-fbf4-4d7f-bd25-27bd507d86ab HTTP/1.1[0m" 404 -
+2025-12-24 03:24:15,570 - app - ERROR - Exception on /api/dashboard/stats [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/dist-packages/sqlalchemy/sql/base.py", line 2215, in _entity_namespace_key
+    return getattr(ns, key)  # type: ignore
+           ^^^^^^^^^^^^^^^^
+AttributeError: type object 'Lead' has no attribute 'status'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/dist-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/westmoney/app.py", line 658, in decorated_function
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/westmoney/app.py", line 4202, in get_dashboard_stats
+    'new': Lead.query.filter_by(status='new').count(),
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/sqlalchemy/orm/query.py", line 1992, in filter_by
+    _entity_namespace_key(from_entity, key) == value
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/sqlalchemy/sql/base.py", line 2217, in _entity_namespace_key
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: Entity namespace for "leads" has no property "status"
+2025-12-24 03:24:15,576 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:24:15] "[35m[1mGET /api/dashboard/stats HTTP/1.1[0m" 500 -
+2025-12-24 03:27:59,974 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:27:59] "[33mGET /api/.env HTTP/1.1[0m" 404 -
+2025-12-24 03:27:59,992 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:27:59] "GET / HTTP/1.1" 200 -
+2025-12-24 03:28:00,016 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:28:00] "[33mGET /css/support_parent.css HTTP/1.1[0m" 404 -
+2025-12-24 03:28:00,040 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:28:00] "[33mGET /js/twint_ch.js HTTP/1.1[0m" 404 -
+2025-12-24 03:28:00,062 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:28:00] "[33mGET /js/lkk_ch.js HTTP/1.1[0m" 404 -
+2025-12-24 03:36:34,504 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:36:34] "[31m[1mGET /api/contacts HTTP/1.1[0m" 401 -
+2025-12-24 03:38:23,648 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:38:23] "GET / HTTP/1.1" 200 -
+2025-12-24 03:38:30,208 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:38:30] "GET /login HTTP/1.1" 200 -
+2025-12-24 03:38:39,821 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:38:39] "POST /login HTTP/1.1" 200 -
+2025-12-24 03:38:50,788 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:38:50] "POST /login HTTP/1.1" 200 -
+2025-12-24 03:38:51,701 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:38:51] "POST /login HTTP/1.1" 200 -
+2025-12-24 03:40:16,145 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:40:16] "POST /login HTTP/1.1" 200 -
+2025-12-24 03:41:15,251 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:41:15] "POST /login HTTP/1.1" 200 -
+2025-12-24 03:43:46,908 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:43:46] "GET /login HTTP/1.1" 200 -
+2025-12-24 03:43:50,440 - werkzeug - INFO - 127.0.0.1 - - [24/Dec/2025 03:43:50] "POST /login HTTP/1.1" 200 -
